@@ -1,0 +1,4 @@
+I chose to use the Marvel dataset from Melanie Walsh's repository. I had a lot of trouble with this assignment; I was unable to properly upload the data to Gephi-Lite, as it requested a GEXF file, and the data that I was working with was in the form of a CSV.
+With Palladio, I could only figure out how to upload one CSV file at a time, meaning that I wasn't able to give context to the nodes by uploading the edges file.
+I had some success with Network Navigator, and here's my visualization: https://drive.google.com/file/d/1pf53qcDLHrB8tUdSOJQuBcbBhIkkZE0S/view?usp=sharing
+I was able to export the data in Network Navigator as well, including the Degree and Betweeness Centrality for my data.
